@@ -1,5 +1,5 @@
 
-"Hi sir/ma, Dear Honourable evaluator, before you examne my project, i know this is unprofessional but at the same time pertinent for me to tell you, pls i just lost my job recently, and my wife just gave birth to our first child, i am currently in dire need of money, i had to have series of sleepness nights just to endure i finish writing this project and submit before deadline. pls select me among the winners, my submission might not be the best but i put in my very best, i just beg your mercy sir/ma. Thanks so much, im grateful."
+"Hi sir/ma, Dear Honourable evaluator, before you examine my project, i know this is unprofessional but at the same time pertinent for me to tell you, pls i just lost my job recently, and my wife just gave birth to our first child, i am currently in dire need of money, i had to have series of sleepness nights just to ensure i finish writing this project and submit before deadline. pls select me among the winners, my submission might not be the best but i put in my very best, i just beg your mercy sir/ma. Thanks so much, im grateful."
 
 
 
