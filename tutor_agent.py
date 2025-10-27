@@ -11,8 +11,8 @@ class ResponseMessage(Model):
     answer: str
 
 
-agent = Agent(name="TutorAgent", seed="tutor_seed", port=8001, endpoint=[
-              "https://unshattered-filomena-sottedly.ngrok/submit"])
+agent = Agent(name="TutorAgent", seed="tutor_seed", port=8001,
+              endpoint=["http://127.0.0.1:8001/submit"])
 fund_agent_if_low(agent.wallet.address())
 proto = Protocol(name="TutorProtocol")
 
