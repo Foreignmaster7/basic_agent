@@ -12,8 +12,8 @@ class ResponseMessage(Model):
     answer: str
 
 
-agent = Agent(name="ChatAgent", seed="chat_seed", port=8000, endpoint=[
-              "https://unshattered-filomena-sottedly.ngrok-free.dev/submit"])
+agent = Agent(name="ChatAgent", seed="chat_seed", port=8000,
+              endpoint=["http://127.0.0.1:8000/submit"])
 fund_agent_if_low(agent.wallet.address())
 query_proto = Protocol(name="QueryHandler")
 tutor_address = "agent1qt69vgkuuzt6zw5t4xv34jd2pznd405ty2tkfcdesf39uaqcge73kp0qrnv"
